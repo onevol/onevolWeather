@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_grey">#ffe6e6e6</color>
+    <color name="dark_grey">#ffb8b8b8</color>
+    <color name="frame_color">#ff717171</color>
+    <color name="text_color">#ffffffff</color>
+    <color name="blue">#ff37ac9c</color>
+    <color name="amulet">#ff83a47f</color>
+    <color name="lochinvar">#ff3f9183</color>
+    <color name="sweet_pink">#ffe48d85</color>
+    <color name="cg_red">#ffd63060</color>
+</resources>

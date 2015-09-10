@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="ViewStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="TextViewStyle" parent="@style/ViewStyle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:text">@string/default_text</item>
+    </style>
+</resources>
